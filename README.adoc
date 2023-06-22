@@ -1,7 +1,7 @@
 = Database liquibase jooq codegen plugins (dbljc)
 
 This is umbrella project for set of plugins the main goal of which is to run liquibase maven
-plugin `+update+` goal and jooq codegen maven plugin `+generate+` goal with dockerized database
+plugin `+update+` goal and jooq codegen maven plugin `+generate+` goal with containerized database
 running in context of these two goals.
 
 It was created many years ago but open sourced only in 2023. And now there is another
